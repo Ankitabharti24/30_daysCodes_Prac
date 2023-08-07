@@ -3,7 +3,7 @@
 //with sum as the given sum, print first such subarray.
 
 
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 void sumofele(int arr[],int n,int k){
